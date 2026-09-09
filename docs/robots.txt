@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/sitemap.xml
+Sitemap: https://taka2813.github.io/takushoku-blog/sitemap.xml
