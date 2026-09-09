@@ -34,6 +34,16 @@ h2 { font-size: 1.3rem; margin-top: 2em; border-left: 4px solid var(--main-color
 h3 { font-size: 1.1rem; margin-top: 1.5em; }
 p { margin: 1em 0; }
 .meta { color: var(--muted); font-size: 0.85rem; }
+.pr-notice {
+  display: inline-block;
+  background: #fff4e0;
+  color: #8a5a00;
+  border: 1px solid #f0d9a8;
+  border-radius: 4px;
+  padding: 3px 10px;
+  font-size: 0.78rem;
+  margin: 4px 0 1.2em;
+}
 table { border-collapse: collapse; width: 100%; margin: 1.5em 0; font-size: 0.95rem; }
 th, td { border: 1px solid #ddd; padding: 8px 10px; text-align: left; }
 th { background: #f4f4f0; }
