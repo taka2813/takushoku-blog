@@ -51,6 +51,20 @@ th { background: #f4f4f0; }
 .article-list li { padding: 16px 0; border-bottom: 1px solid #eee; }
 .article-list a { color: var(--main-color); text-decoration: none; font-size: 1.1rem; font-weight: bold; }
 .article-list a:hover { text-decoration: underline; }
+.toc {
+  background: #f4f6f3;
+  border: 1px solid #dfe6e0;
+  border-radius: 8px;
+  padding: 14px 18px;
+  margin: 1.5em 0 2em;
+  font-size: 0.92rem;
+}
+.toc-title { font-weight: bold; margin: 0 0 6px; color: var(--main-color); }
+.toc ol { margin: 0; padding-left: 1.3em; }
+.toc li { margin: 3px 0; }
+.toc a { color: var(--text-color); text-decoration: none; }
+.toc a:hover { text-decoration: underline; color: var(--main-color); }
+h2[id], h3[id] { scroll-margin-top: 16px; }
 .aff-box {
   background: #f6f9f6;
   border: 1px solid #d9e6da;
