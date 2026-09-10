@@ -282,6 +282,31 @@ tbody tr:last-child td { border-bottom: 0; }
 .related-articles a { color: var(--ink); text-decoration: none; }
 .related-articles a:hover { color: var(--accent); text-decoration: underline; }
 
+/* ---- 情報源の注記 ---- */
+.source-note {
+  margin: 2.6em 0 0;
+  padding-top: 0.9em;
+  border-top: 1px solid var(--line);
+  font-size: 0.82rem;
+  line-height: 1.75;
+  color: var(--ink-soft);
+}
+
+/* ---- 表内の小さめCTAボタン ---- */
+.cta-cell { white-space: nowrap; }
+a.cta-sm {
+  display: inline-block;
+  padding: 0.4em 0.9em;
+  background: var(--accent);
+  color: #fff;
+  font-size: 0.82rem;
+  font-weight: 700;
+  border-radius: 2px;
+  text-decoration: none;
+  transition: background-color 0.12s ease;
+}
+a.cta-sm:hover { background: var(--accent-2); color: #fff; }
+
 /* ---- トップページ：リード＋目的ナビ＋記事索引 ---- */
 .lede {
   font-size: 1.02rem;
