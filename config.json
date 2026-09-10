@@ -2,7 +2,7 @@
   "site_name": "宅配食・ミールキット比較ナビ",
   "base_url": "https://taka2813.github.io/takushoku-blog/",
   "google_site_verification": "_rkcy_MqXZerAskMw8vsi0u6ahv1urkhrsamqVJ-8dY",
-  "google_analytics_id": "G-E680EJBH1D",
+  "google_analytics_id": "",
   "author": "宅配食・ミールキット比較ナビ編集部",
   "copyright_year": "2026",
   "_note": "google_analytics_id に測定ID(G-XXXXXXXXXX)を入れて build すると全ページに GA4 タグが入る。pages の順序は sitemap.xml の出力順。",
