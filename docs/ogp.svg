@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f4f2ea"/>
+  <rect x="0" y="0" width="1200" height="12" fill="#1d5b54"/>
+  <g transform="translate(96 150)">
+    <rect x="0" y="0" width="300" height="300" rx="24" fill="none" stroke="#1d5b54" stroke-width="16"/>
+    <line x1="150" y1="0" x2="150" y2="300" stroke="#1d5b54" stroke-width="16"/>
+    <line x1="0" y1="150" x2="300" y2="150" stroke="#1d5b54" stroke-width="16"/>
+  </g>
+  <g transform="translate(470 0)" fill="#2f271d" font-family="'Hiragino Mincho ProN','Yu Mincho','Noto Serif JP',serif">
+    <text x="0" y="250" font-size="66" font-weight="700">宅配食・ミールキット</text>
+    <text x="0" y="332" font-size="66" font-weight="700">比較ナビ</text>
+    <text x="0" y="430" font-size="34" fill="#6a5f4f" font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',sans-serif">宅配食とミールキットを、目的から選ぶ。</text>
+    <text x="0" y="484" font-size="26" fill="#6a5f4f" font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',sans-serif">価格・カロリー・配送エリアを編集部が公表情報で整理</text>
+  </g>
+</svg>

@@ -182,11 +182,18 @@ def render_page(meta, cfg):
 def render_sitemap(cfg):
     lines = ['<?xml version="1.0" encoding="UTF-8"?>',
              '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    site_updated = cfg.get("updated", "")
     for p in cfg["pages"]:
         if not p.get("in_sitemap", True):
             continue
         meta = json.loads(read(os.path.join(CONTENT, p["slug"] + ".json")))
-        lines.append("  <url><loc>%s</loc></url>" % meta["canonical"])
+        m = re.search(r'"dateModified":\s*"([0-9-]+)"', meta.get("jsonld", ""))
+        lastmod = m.group(1) if m else site_updated
+        if lastmod:
+            lines.append("  <url><loc>%s</loc><lastmod>%s</lastmod></url>"
+                         % (meta["canonical"], lastmod))
+        else:
+            lines.append("  <url><loc>%s</loc></url>" % meta["canonical"])
     lines.append("</urlset>")
     return "\n".join(lines) + "\n"
 
