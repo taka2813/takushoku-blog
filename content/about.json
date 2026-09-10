@@ -1,0 +1,12 @@
+{
+  "slug": "about",
+  "title": "運営者情報・お問い合わせ",
+  "title_has_site_suffix": true,
+  "description": "当サイトの運営者情報とお問い合わせ方法について",
+  "canonical": "https://taka2813.github.io/takushoku-blog/about.html",
+  "og_type": "website",
+  "jsonld": "<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"BreadcrumbList\", \"itemListElement\": [{\"@type\": \"ListItem\", \"position\": 1, \"name\": \"トップ\", \"item\": \"./index.html\"}, {\"@type\": \"ListItem\", \"position\": 2, \"name\": \"運営者情報・お問い合わせ\"}]}</script>",
+  "listed_on_index": false,
+  "in_sitemap": true,
+  "date": ""
+}

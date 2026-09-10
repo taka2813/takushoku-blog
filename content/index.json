@@ -1,0 +1,12 @@
+{
+  "slug": "index",
+  "title": "宅配食・ミールキット比較ナビ",
+  "title_has_site_suffix": false,
+  "description": "忙しい人のための宅配食・ミールキットサービス比較サイト。価格・カロリー・味・配送エリアを徹底比較します。",
+  "canonical": "https://taka2813.github.io/takushoku-blog/",
+  "og_type": "website",
+  "jsonld": "<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"宅配食・ミールキット比較ナビ編集部\", \"url\": \"https://taka2813.github.io/takushoku-blog/\"}</script>\n<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"WebSite\", \"name\": \"宅配食・ミールキット比較ナビ\", \"url\": \"https://taka2813.github.io/takushoku-blog/\"}</script>",
+  "listed_on_index": false,
+  "in_sitemap": true,
+  "date": ""
+}

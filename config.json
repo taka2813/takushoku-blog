@@ -1,0 +1,23 @@
+{
+  "site_name": "宅配食・ミールキット比較ナビ",
+  "base_url": "https://taka2813.github.io/takushoku-blog/",
+  "google_site_verification": "_rkcy_MqXZerAskMw8vsi0u6ahv1urkhrsamqVJ-8dY",
+  "google_analytics_id": "",
+  "author": "宅配食・ミールキット比較ナビ編集部",
+  "copyright_year": "2026",
+  "_note": "google_analytics_id に測定ID(G-XXXXXXXXXX)を入れて build すると全ページに GA4 タグが入る。pages の順序は sitemap.xml の出力順。",
+  "pages": [
+    { "slug": "index",                     "listed_on_index": false, "in_sitemap": true },
+    { "slug": "otameshi-katsuyo",           "listed_on_index": true,  "in_sitemap": true, "date": "2026-09-17" },
+    { "slug": "ninshin-sango-takushoku",    "listed_on_index": true,  "in_sitemap": true, "date": "2026-09-16" },
+    { "slug": "takushoku-cost-hikaku",      "listed_on_index": true,  "in_sitemap": true, "date": "2026-09-15" },
+    { "slug": "takushoku-demerit",          "listed_on_index": true,  "in_sitemap": true, "date": "2026-09-14" },
+    { "slug": "kyodaraku-mealkit",          "listed_on_index": true,  "in_sitemap": true, "date": "2026-09-13" },
+    { "slug": "koureisha-takushoku",        "listed_on_index": true,  "in_sitemap": true, "date": "2026-09-12" },
+    { "slug": "diet-takuhaibento",          "listed_on_index": true,  "in_sitemap": true, "date": "2026-09-11" },
+    { "slug": "hitorigurashi-takushoku",    "listed_on_index": true,  "in_sitemap": true, "date": "2026-09-10" },
+    { "slug": "takushoku-hikaku",           "listed_on_index": true,  "in_sitemap": true, "date": "2026-09-09" },
+    { "slug": "privacy-policy",             "listed_on_index": false, "in_sitemap": true },
+    { "slug": "about",                      "listed_on_index": false, "in_sitemap": true }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "privacy-policy",
+  "title": "プライバシーポリシー",
+  "title_has_site_suffix": true,
+  "description": "当サイトのプライバシーポリシー・個人情報の取り扱いについて",
+  "canonical": "https://taka2813.github.io/takushoku-blog/privacy-policy.html",
+  "og_type": "website",
+  "jsonld": "<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"BreadcrumbList\", \"itemListElement\": [{\"@type\": \"ListItem\", \"position\": 1, \"name\": \"トップ\", \"item\": \"./index.html\"}, {\"@type\": \"ListItem\", \"position\": 2, \"name\": \"プライバシーポリシー\"}]}</script>",
+  "listed_on_index": false,
+  "in_sitemap": true,
+  "date": ""
+}
