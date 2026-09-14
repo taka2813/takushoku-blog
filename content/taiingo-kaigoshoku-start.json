@@ -1,0 +1,12 @@
+{
+  "slug": "taiingo-kaigoshoku-start",
+  "title": "退院後・介護食を始めるときの宅配食ガイド",
+  "title_has_site_suffix": true,
+  "description": "退院直後や介護食を始めるタイミングで、宅配食をどう取り入れるかを解説。嚥下状態に合わせた選び方や相談先も紹介します。",
+  "canonical": "https://taka2813.github.io/takushoku-blog/taiingo-kaigoshoku-start.html",
+  "og_type": "article",
+  "jsonld": "<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"BreadcrumbList\", \"itemListElement\": [{\"@type\": \"ListItem\", \"position\": 1, \"name\": \"トップ\", \"item\": \"./index.html\"}, {\"@type\": \"ListItem\", \"position\": 2, \"name\": \"退院後・介護食を始めるときの宅配食ガイド\"}]}</script>\n<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"Article\", \"headline\": \"退院後・介護食を始めるときの宅配食ガイド\", \"description\": \"退院直後や介護食を始めるタイミングで、宅配食をどう取り入れるかを解説。嚥下状態に合わせた選び方や相談先も紹介します。\", \"datePublished\": \"2026-09-20\", \"dateModified\": \"2026-09-20\", \"author\": {\"@type\": \"Organization\", \"name\": \"宅配食・ミールキット比較ナビ編集部\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"宅配食・ミールキット比較ナビ編集部\"}, \"mainEntityOfPage\": \"https://taka2813.github.io/takushoku-blog/taiingo-kaigoshoku-start.html\"}</script>\n<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"退院してすぐ定期便を契約すべきですか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"いきなり定期便を契約するのではなく、まずはお試しセットや都度購入で、本人に合うかたさ・味・量かを確認するのが安心です。継続して使えそうだと分かってから、必要に応じて定期便を検討してください。\"}}, {\"@type\": \"Question\", \"name\": \"かたさはどう選べばいいですか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"自己判断で選ばず、必ず退院時に受けた医師・管理栄養士・言語聴覚士などの指導内容に従ってください。宅配食のかたさの区分はあくまで一般的な目安であり、個別の嚥下状態を判断するものではありません。\"}}, {\"@type\": \"Question\", \"name\": \"短期間で解約できますか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"サービスによって最低継続回数や解約の締切が異なるため、契約前に必ず確認してください。\"}}, {\"@type\": \"Question\", \"name\": \"家族が代わりに手続きできますか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"多くの宅配食サービスはオンラインで注文・変更ができるため、離れて暮らす家族が代行して手続きしやすくなっています。\"}}, {\"@type\": \"Question\", \"name\": \"栄養価が細かく管理された食事も選べますか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"消費者庁の指針に基づいて栄養価を管理しているサービスもあります。減塩やたんぱく質調整などの制限食を扱っているものもあるため、医師の指導内容に沿ったメニューを探す際の選択肢になります。\"}}]}</script>",
+  "listed_on_index": true,
+  "in_sitemap": true,
+  "date": "2026-09-20"
+}
