@@ -1,0 +1,12 @@
+{
+  "slug": "bousai-reitou-takushoku",
+  "title": "台風・停電に備える冷凍宅配食の防災ストック活用法",
+  "title_has_site_suffix": true,
+  "description": "台風や停電に備えて、冷凍宅配食を日常づかいしながら防災備蓄にもつなげる考え方を紹介。ローリングストックの視点で選び方を解説します。",
+  "canonical": "https://taka2813.github.io/takushoku-blog/bousai-reitou-takushoku.html",
+  "og_type": "article",
+  "jsonld": "<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"BreadcrumbList\", \"itemListElement\": [{\"@type\": \"ListItem\", \"position\": 1, \"name\": \"トップ\", \"item\": \"./index.html\"}, {\"@type\": \"ListItem\", \"position\": 2, \"name\": \"台風・停電に備える冷凍宅配食の防災ストック活用法\"}]}</script>\n<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"Article\", \"headline\": \"台風・停電に備える冷凍宅配食の防災ストック活用法\", \"description\": \"台風や停電に備えて、冷凍宅配食を日常づかいしながら防災備蓄にもつなげる考え方を紹介。ローリングストックの視点で選び方を解説します。\", \"datePublished\": \"2026-09-15\", \"dateModified\": \"2026-09-15\", \"author\": {\"@type\": \"Organization\", \"name\": \"宅配食・ミールキット比較ナビ編集部\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"宅配食・ミールキット比較ナビ編集部\"}, \"mainEntityOfPage\": \"https://taka2813.github.io/takushoku-blog/bousai-reitou-takushoku.html\"}</script>\n<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"冷凍宅配食だけで防災備蓄になりますか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"なりません。冷凍庫が正常に使える間は役立ちますが、停電が長引くと保存が難しくなります。缶詰・レトルト・水など、常温で保存できる備蓄品とあわせて用意することが大切です。\"}}, {\"@type\": \"Question\", \"name\": \"停電時はどうすればいいですか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"無理に冷凍食品を食べようとせず、まずは常温保存の備蓄品を優先してください。長時間の停電のあとは、食品が解凍されていないか、におい・見た目に変化がないかを確認し、少しでも不安がある場合は口にしないようにしましょう。\"}}, {\"@type\": \"Question\", \"name\": \"賞味期限はどのくらいですか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"商品によって大きく異なります。購入前に各社の公式サイトやパッケージの表示で、冷凍状態での賞味期限を確認してください。\"}}, {\"@type\": \"Question\", \"name\": \"一人暮らしでも備蓄になりますか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"一人暮らしは冷凍庫の容量が限られることが多いですが、無理のない量を少しずつストックするだけでも役立ちます。一人暮らし向け宅配食の記事もあわせてご覧ください。\"}}, {\"@type\": \"Question\", \"name\": \"常温保存の非常食と何が違いますか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"常温保存の非常食は電気に左右されず長期間保存できる安心感がありますが、日常的なおかずとして食べ続けるには、味や栄養バランスの面で工夫が必要なこともあります。冷凍宅配食は、普段の食事として食べながら備えられる点が異なります。\"}}]}</script>",
+  "listed_on_index": true,
+  "in_sitemap": true,
+  "date": "2026-09-15"
+}
