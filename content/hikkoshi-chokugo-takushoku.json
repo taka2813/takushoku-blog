@@ -1,0 +1,12 @@
+{
+  "slug": "hikkoshi-chokugo-takushoku",
+  "title": "引っ越し直後の食事どうする？キッチンが整うまでの宅配食活用法",
+  "title_has_site_suffix": true,
+  "description": "引っ越し直後、調理器具や冷蔵庫がまだ整わない数日間をどう乗り切るか。宅配食を活用するときの注意点や注文のタイミングを整理しました。",
+  "canonical": "https://taka2813.github.io/takushoku-blog/hikkoshi-chokugo-takushoku.html",
+  "og_type": "article",
+  "jsonld": "<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"BreadcrumbList\", \"itemListElement\": [{\"@type\": \"ListItem\", \"position\": 1, \"name\": \"トップ\", \"item\": \"./index.html\"}, {\"@type\": \"ListItem\", \"position\": 2, \"name\": \"引っ越し直後の食事どうする？キッチンが整うまでの宅配食活用法\"}]}</script>\n<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"Article\", \"headline\": \"引っ越し直後の食事どうする？キッチンが整うまでの宅配食活用法\", \"description\": \"引っ越し直後、調理器具や冷蔵庫がまだ整わない数日間をどう乗り切るか。宅配食を活用するときの注意点や注文のタイミングを整理しました。\", \"datePublished\": \"2026-10-01\", \"dateModified\": \"2026-10-01\", \"author\": {\"@type\": \"Organization\", \"name\": \"宅配食・ミールキット比較ナビ編集部\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"宅配食・ミールキット比較ナビ編集部\"}, \"mainEntityOfPage\": \"https://taka2813.github.io/takushoku-blog/hikkoshi-chokugo-takushoku.html\"}</script>\n<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"引っ越し当日に冷凍宅配食を頼んでも大丈夫ですか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"搬入直後の冷蔵庫は温度が安定するまで時間がかかることがあるため、当日ではなく、冷蔵庫の設置から数日後に届くよう注文しておくのが無難です。\"}}, {\"@type\": \"Question\", \"name\": \"冷凍庫がまだ使えない場合はどうすればいいですか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"最初の1〜2日は常温保存できるレトルト・パックご飯などを用意しておき、冷蔵庫が安定してから冷凍タイプの宅配食を活用する方法があります。\"}}, {\"@type\": \"Question\", \"name\": \"新居で置き配してもらえますか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"サービスによって対応が異なります。表札や宅配ボックスの準備が済んでいない場合もあるため、注文前に置き配の可否や不在時の対応を確認してください。\"}}, {\"@type\": \"Question\", \"name\": \"新しい土地でどのサービスが使えるか分かりません。\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"注文前に新住所の郵便番号で配送エリアを確認してください。サービスによって対応エリアが異なります。\"}}, {\"@type\": \"Question\", \"name\": \"荷解きが落ち着いたら何を見ればいいですか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"一人暮らし向け宅配食の選び方の記事で、日常使いのサービス選びを紹介しています。\"}}]}</script>",
+  "listed_on_index": true,
+  "in_sitemap": true,
+  "date": "2026-10-01"
+}
