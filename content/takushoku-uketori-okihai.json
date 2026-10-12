@@ -1,0 +1,12 @@
+{
+  "slug": "takushoku-uketori-okihai",
+  "title": "宅配食の受け取り方法ガイド｜置き配・宅配ボックス・不在時の注意点",
+  "title_has_site_suffix": true,
+  "description": "宅配食の受け取り方法を手渡し・置き配・宅配ボックスなどに分けて整理。冷凍・冷蔵便を不在時に受け取るときの温度管理の注意点、再配達のルール、注文前に確認したい項目をまとめました。",
+  "canonical": "https://taka2813.github.io/takushoku-blog/takushoku-uketori-okihai.html",
+  "og_type": "article",
+  "jsonld": "<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"BreadcrumbList\", \"itemListElement\": [{\"@type\": \"ListItem\", \"position\": 1, \"name\": \"トップ\", \"item\": \"./index.html\"}, {\"@type\": \"ListItem\", \"position\": 2, \"name\": \"宅配食の受け取り方法ガイド｜置き配・宅配ボックス・不在時の注意点\"}]}</script>\n<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"Article\", \"headline\": \"宅配食の受け取り方法ガイド｜置き配・宅配ボックス・不在時の注意点\", \"description\": \"宅配食の受け取り方法を手渡し・置き配・宅配ボックスなどに分けて整理。冷凍・冷蔵便を不在時に受け取るときの温度管理の注意点、再配達のルール、注文前に確認したい項目をまとめました。\", \"datePublished\": \"2026-10-15\", \"dateModified\": \"2026-10-15\", \"author\": {\"@type\": \"Organization\", \"name\": \"宅配食・ミールキット比較ナビ編集部\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"宅配食・ミールキット比較ナビ編集部\"}, \"mainEntityOfPage\": \"https://taka2813.github.io/takushoku-blog/takushoku-uketori-okihai.html\"}</script>\n<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"冷凍の宅配食は置き配で届きますか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"サービスや商品によって異なります。置き配に対応していない場合や、冷凍品は手渡しのみの場合もあります。申し込み前に公式サイトで確認してください。\"}}, {\"@type\": \"Question\", \"name\": \"不在で受け取れなかった場合はどうなりますか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"再配達や保管のルールはサービスごとに異なります。冷凍・冷蔵品は再配達の期限が短いこともあるため、利用規約と配送案内を確認しておきましょう。\"}}, {\"@type\": \"Question\", \"name\": \"マンションの宅配ボックスに入りますか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"ボックスのサイズや冷凍品の扱いによって異なります。事前にサイズを確認するとともに、冷凍・冷蔵の商品が対象になるかをサービス側にも確認してください。\"}}, {\"@type\": \"Question\", \"name\": \"夏場の置き配が心配です。\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"気温が高い時期は、配達時間帯の指定や在宅時間への合わせ込みなど、置いておく時間を短くする工夫が大切です。不安な場合は手渡しを選ぶのも一つの方法です。\"}}, {\"@type\": \"Question\", \"name\": \"届いた食品が溶けていた場合は？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"召し上がらず、写真を撮ってサービスのお問い合わせ窓口に連絡してください。対応はサービスごとの案内に従います。\"}}]}</script>",
+  "listed_on_index": true,
+  "in_sitemap": true,
+  "date": "2026-10-15"
+}
