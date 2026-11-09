@@ -1,0 +1,12 @@
+{
+  "slug": "takushoku-allergy-hyouji-check",
+  "title": "宅配食のアレルギー表示の見方｜注文前に確認したい原材料・注意喚起・コンタミ",
+  "title_has_site_suffix": true,
+  "description": "宅配食・ミールキットを注文する前に確認したいアレルギー表示の見方を整理。原材料表示の読み方、「含む」と注意喚起の違い、メニュー変更時の再確認、家族に食物アレルギーがある場合の注意点まで解説します。",
+  "canonical": "https://taka2813.github.io/takushoku-blog/takushoku-allergy-hyouji-check.html",
+  "og_type": "article",
+  "jsonld": "<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"BreadcrumbList\", \"itemListElement\": [{\"@type\": \"ListItem\", \"position\": 1, \"name\": \"トップ\", \"item\": \"./index.html\"}, {\"@type\": \"ListItem\", \"position\": 2, \"name\": \"宅配食のアレルギー表示の見方｜注文前に確認したい原材料・注意喚起・コンタミ\"}]}</script>\n<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"Article\", \"headline\": \"宅配食のアレルギー表示の見方｜注文前に確認したい原材料・注意喚起・コンタミ\", \"description\": \"宅配食・ミールキットを注文する前に確認したいアレルギー表示の見方を整理。原材料表示の読み方、「含む」と注意喚起の違い、メニュー変更時の再確認、家族に食物アレルギーがある場合の注意点まで解説します。\", \"datePublished\": \"2026-11-14\", \"dateModified\": \"2026-11-14\", \"author\": {\"@type\": \"Organization\", \"name\": \"宅配食・ミールキット比較ナビ編集部\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"宅配食・ミールキット比較ナビ編集部\"}, \"mainEntityOfPage\": \"https://taka2813.github.io/takushoku-blog/takushoku-allergy-hyouji-check.html\"}</script>\n<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"アレルギー対応の宅配食はありますか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"サービスや商品によって、対応の有無や範囲が異なります。公式サイトのアレルゲン情報や問い合わせ窓口で、対象のアレルギー原因食品を個別に確認してください。\"}}, {\"@type\": \"Question\", \"name\": \"「含まない」と書いてあれば安心ですか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"表示の範囲や基準はサービスによって異なります。製造工程での混入の可能性も含めて、不安があれば販売元に確認し、医師にも相談してください。\"}}, {\"@type\": \"Question\", \"name\": \"定期便の途中でメニューが変わったらどうなりますか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"メニューや原材料が変更されることがあります。届くたびにパッケージの表示を確認し、お知らせメールもチェックしてください。\"}}, {\"@type\": \"Question\", \"name\": \"子どもに食べさせても大丈夫ですか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"年齢や症状によって異なります。かかりつけ医や、アレルギー専門の医師に相談したうえで判断してください。\"}}, {\"@type\": \"Question\", \"name\": \"問い合わせ先が分からないときは？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"公式サイトの「お問い合わせ」ページや、注文確認メールに記載の窓口を確認してください。回答は、記録に残る形で受け取るようにすると安心です。\"}}]}</script>",
+  "listed_on_index": true,
+  "in_sitemap": true,
+  "date": "2026-11-14"
+}
