@@ -9,6 +9,7 @@
   "_note": "google_analytics_id に測定ID(G-XXXXXXXXXX)を入れて build すると全ページに GA4 タグが入る。pages の順序は sitemap.xml の出力順。",
   "pages": [
     { "slug": "index",                     "listed_on_index": false, "in_sitemap": true },
+    { "slug": "kanpa-daisetsu-kaimono-konnan-takushoku", "listed_on_index": true, "in_sitemap": true, "date": "2026-11-09" },
     { "slug": "zangyo-kitaku-osoi-yuushoku-takushoku", "listed_on_index": true, "in_sitemap": true, "date": "2026-11-08" },
     { "slug": "takushoku-hajimete-junbi-checklist", "listed_on_index": true, "in_sitemap": true, "date": "2026-11-07" },
     { "slug": "takushoku-heiyou-kumiawase", "listed_on_index": true, "in_sitemap": true, "date": "2026-11-06" },
