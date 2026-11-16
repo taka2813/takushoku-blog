@@ -1,0 +1,12 @@
+{
+  "slug": "iryouhi-koujo-takushoku",
+  "title": "宅配食は医療費控除の対象になる？年末に確認したい食費と控除の考え方",
+  "title_has_site_suffix": true,
+  "description": "減塩食や制限食の宅配食は医療費控除の対象になるのか。一般的な考え方、対象になりやすい費用と対象外になりやすい費用、入院・介護施設の食費の扱い、確定申告前の確認先を整理します。最終判断は税務署へ。",
+  "canonical": "https://taka2813.github.io/takushoku-blog/iryouhi-koujo-takushoku.html",
+  "og_type": "article",
+  "jsonld": "<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"BreadcrumbList\", \"itemListElement\": [{\"@type\": \"ListItem\", \"position\": 1, \"name\": \"トップ\", \"item\": \"./index.html\"}, {\"@type\": \"ListItem\", \"position\": 2, \"name\": \"宅配食は医療費控除の対象になる？年末に確認したい食費と控除の考え方\"}]}</script>\n<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"Article\", \"headline\": \"宅配食は医療費控除の対象になる？年末に確認したい食費と控除の考え方\", \"description\": \"減塩食や制限食の宅配食は医療費控除の対象になるのか。一般的な考え方、対象になりやすい費用と対象外になりやすい費用、入院・介護施設の食費の扱い、確定申告前の確認先を整理します。最終判断は税務署へ。\", \"datePublished\": \"2026-11-22\", \"dateModified\": \"2026-11-22\", \"author\": {\"@type\": \"Organization\", \"name\": \"宅配食・ミールキット比較ナビ編集部\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"宅配食・ミールキット比較ナビ編集部\"}, \"mainEntityOfPage\": \"https://taka2813.github.io/takushoku-blog/iryouhi-koujo-takushoku.html\"}</script>\n<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"宅配食の減塩食は医療費控除の対象になりますか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"自宅で日常の食事として購入する宅配食は、減塩食であっても、一般には医療費控除の対象外と考えられています。個別の扱いは税務署に確認してください。\"}}, {\"@type\": \"Question\", \"name\": \"医師に食事制限を指示されていれば対象になりますか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"医師の指示があっても、自宅で食べる食事の費用は一般に対象外と考えられています。判断に迷う場合は、領収書と指示の内容がわかるものを持って税務署に相談するのが確実です。\"}}, {\"@type\": \"Question\", \"name\": \"入院中の食事代は対象になりますか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"入院中に病院で提供される食事の費用（入院時食事療養費の自己負担分）は、医療費控除の対象になるとされています。国税庁タックスアンサーNo.1122で確認できます。\"}}, {\"@type\": \"Question\", \"name\": \"自治体の配食サービスはどうですか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"配食サービスや介護保険の居宅サービスの扱いは、内容によって異なります。領収書の記載を確認し、自治体の窓口や税務署に問い合わせてください。\"}}]}</script>",
+  "listed_on_index": true,
+  "in_sitemap": true,
+  "date": "2026-11-22"
+}
