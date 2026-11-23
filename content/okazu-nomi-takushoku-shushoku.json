@@ -1,0 +1,12 @@
+{
+  "slug": "okazu-nomi-takushoku-shushoku",
+  "title": "おかずだけの宅配食、ご飯はどうする？主食・汁物の足し方と1食の組み立て",
+  "title_has_site_suffix": true,
+  "description": "冷凍宅配食はおかずのみが多く、ご飯は自分で用意するのが一般的です。冷凍ご飯・パックご飯など主食の用意パターンを手間と費用で比較し、ご飯の量の考え方、汁物の塩分、1週間の組み立て例、冷凍庫の容量との兼ね合いを整理します。",
+  "canonical": "https://taka2813.github.io/takushoku-blog/okazu-nomi-takushoku-shushoku.html",
+  "og_type": "article",
+  "jsonld": "<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"BreadcrumbList\", \"itemListElement\": [{\"@type\": \"ListItem\", \"position\": 1, \"name\": \"トップ\", \"item\": \"./index.html\"}, {\"@type\": \"ListItem\", \"position\": 2, \"name\": \"おかずだけの宅配食、ご飯はどうする？主食・汁物の足し方と1食の組み立て\"}]}</script>\n<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"Article\", \"headline\": \"おかずだけの宅配食、ご飯はどうする？主食・汁物の足し方と1食の組み立て\", \"description\": \"冷凍宅配食はおかずのみが多く、ご飯は自分で用意するのが一般的です。冷凍ご飯・パックご飯など主食の用意パターンを手間と費用で比較し、ご飯の量の考え方、汁物の塩分、1週間の組み立て例、冷凍庫の容量との兼ね合いを整理します。\", \"datePublished\": \"2026-11-27\", \"dateModified\": \"2026-11-27\", \"author\": {\"@type\": \"Organization\", \"name\": \"宅配食・ミールキット比較ナビ編集部\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"宅配食・ミールキット比較ナビ編集部\"}, \"mainEntityOfPage\": \"https://taka2813.github.io/takushoku-blog/okazu-nomi-takushoku-shushoku.html\"}</script>\n<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"宅配食にご飯が付いていないのは普通ですか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"冷凍宅配食はおかずのみの構成が多く、主食は自分で用意する前提のものが一般的です。主食付きのメニューがあるかはサービスによって異なるため、公式サイトのメニュー詳細で確認してください。\"}}, {\"@type\": \"Question\", \"name\": \"ご飯の量はどのくらいが目安ですか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"必要な量は年齢・体格・活動量によって異なるため、一律には決められません。いつもの量から始めて、空腹感や体重の変化を見ながら調整するのが現実的です。食事制限や主食量の指示がある場合は、医師・管理栄養士の指示に従ってください。\"}}, {\"@type\": \"Question\", \"name\": \"冷凍ご飯と宅配食を一緒に温めてもいいですか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"加熱時間が違うため、別々に温めるほうがムラになりにくいです。宅配食はパッケージ表示どおりに温め、ご飯は別に温めてください。温め方のコツは「冷凍宅配食の電子レンジの温め方」でも紹介しています。\"}}, {\"@type\": \"Question\", \"name\": \"汁物は毎食あったほうがいいですか？\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"必須ではありません。満足感は上がりますが、おかずの塩分と重なりやすいため、寒い日や軽めのおかずの日に足すなど、頻度を決めておく方法があります。減塩の指示を受けている方は医師・管理栄養士に相談してください。\"}}]}</script>",
+  "listed_on_index": true,
+  "in_sitemap": true,
+  "date": "2026-11-27"
+}
